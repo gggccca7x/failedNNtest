@@ -1,0 +1,1 @@
+dataset: https://www.kaggle.com/ashishguptajiit/handwritten-az/data
